@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+python-docx
+gtts
+langchain
+langchain-google-genai
+langchain-community
+streamlit-mic-recorder
+python-dotenv
+faiss-cpu
